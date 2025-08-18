@@ -12,6 +12,7 @@ target/
 .idea/workspace.xml.xml
 .idea/encodings.xml
 .idea/misc.xml
+.idea/
 *.iws
 *.iml
 *.ipr
